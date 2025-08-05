@@ -1,5 +1,5 @@
 # Io_CNN
-This repository contains a Jupyter Notebook and the models to run a CNN for deconvolving the JWST AMI data of the jovian moon Io
+This repository contains a Jupyter Notebook and the models to run a CNN for deconvolving the JWST NIRIS-AMI data of the jovian moon Io
 
 ## Instructions 
 - The Jupyter Notebook is ready to be run at Google Colab. The file just need to be copied to a Google drive ane excecute it from there.
@@ -20,4 +20,6 @@ This repository contains a Jupyter Notebook and the models to run a CNN for deco
 ** The path to the given dataset should be modified accordingly to the user's needs.
 
 - In case of doubts about the execution of the provided code, please contact me at: <mailto:joelsb@astro.unam.mx>
+- The code in this repository is provided under the GNU General Public License v3.0
 
+<strong>DISCLAIMER:</strong> Author acknoledges the support provided by the Universidad Nacional Autónoma de México DGAPA-PAPIIT project AG101025. 
